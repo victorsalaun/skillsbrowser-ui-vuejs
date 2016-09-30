@@ -1,4 +1,4 @@
-# skillsbrowser-ui-vuejs
+# my-project
 
 > A Vue.js project
 
